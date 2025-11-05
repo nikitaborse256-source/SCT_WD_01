@@ -1,33 +1,55 @@
-# Wanderlust Stays
+🌐 SkillCraft Technology – Web Development Internship (Task 1)
 
-Wanderlust Stays is a hotel discovery website designed to help travelers find the perfect hotel for their next adventure. The site allows users to explore different types of hotels, from luxury to boutique, discover unique hotel experiences, and read testimonials from a community of fellow travelers.
+💻 Responsive Webpage Design using HTML, CSS & JavaScript
 
-## Features
 
-* **Hotel Finder**: Browse and filter a selection of featured hotels by style, including **Luxury**, **Boutique**, and **Resort**.
-* **Unique Experiences**: Learn about incredible activities and amenities offered at hotels, such as **Rooftop Infinity Pools**, **World-Class Spas**, and **Michelin-Starred Dining**.
-* **Community Testimonials**: See what other travelers are saying about their experiences.
-* **Responsive Design**: The website is fully responsive, providing a seamless experience on both desktop and mobile devices.
-* **Interactive Modal**: Click on any featured hotel to view a detailed description, location, amenities, and more in a pop-up modal.
-* **Sticky Navigation**: The navigation bar changes style as you scroll, improving readability and user experience.
+---
 
-## Project Structure
+📄 Project Overview
 
-The project is built using standard web technologies: HTML, CSS, and JavaScript.
+This project was developed as part of my Web Development Internship (Task 1) with SkillCraft Technology.
+The primary objective of this task was to design and develop a responsive, user-friendly, and visually appealing webpage using HTML, CSS, and JavaScript.
 
-* `index.html`: The main HTML file that structures the content of the website.
-* `style.css`: The CSS file that handles all the styling, including layout, colors, and responsive design.
-* `script.js`: The JavaScript file that provides interactivity, including:
-    * Toggling the mobile navigation menu.
-    * Adding the "scrolled" class to the navbar.
-    * Dynamically rendering hotel cards based on a JavaScript array.
-    * Filtering hotels by style.
-    * Managing the display of the hotel details modal.
+Through this project, I demonstrated my understanding of front-end development concepts such as web layout creation, component styling, and implementing interactivity using JavaScript.
 
-## How to Run
 
-To run this project, simply open the `index.html` file in your web browser. There is no server-side technology required.
+---
 
-1.  Clone or download the repository to your local machine.
-2.  Navigate to the project folder.
-3.  Double-click `index.html` to open it in your browser.
+⚙ Features
+
+✅ Responsive Web Design – Ensures compatibility across all screen sizes (desktop, tablet, and mobile).
+
+✅ Modern Front-End Technologies – Built using HTML5, CSS3, and JavaScript.
+
+✅ User-Friendly Interface – Clean and structured layout for better accessibility.
+
+✅ Interactive Elements – Added hover effects, buttons, and transitions for smooth navigation.
+
+✅ Organized Folder Structure – Well-commented and neatly arranged files for easy maintenance.
+
+
+
+---
+
+🎯 Learning Outcomes
+
+By completing this task, I gained practical knowledge of:
+
+Designing responsive layouts using CSS media queries
+
+Structuring webpages using HTML5 semantic tags
+
+Adding interactivity with JavaScript DOM manipulation
+
+Improving UI/UX design for better user engagement
+
+
+
+---
+
+👩‍💻 Author
+
+Name: Nikita Bapu Borse
+Internship: SkillCraft Technology – Web Development Internship
+Task: Task 1 – Responsive Webpage using HTML, CSS & JavaScript
+
